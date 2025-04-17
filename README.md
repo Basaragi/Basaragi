@@ -1,7 +1,11 @@
 👋 Hi, I’m Soundarya
+
 💬 I'm a computer science graduate
+
 🔭 I’m currently working on Web Development projects
+
 🌱 I’m currently learning Data Structure
+
 ⚡I love Readings Books 
 
 <!---
